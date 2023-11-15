@@ -79,7 +79,7 @@ body{
 /*END GLOBAL STYLES*/
 
 .main-head{
-    background: green;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1)
 }
 nav{
     width: 90%;
@@ -87,6 +87,7 @@ nav{
     display: flex;
     align-items: center;
     min-height: 10vh;
+    padding: 2rem 0rem;
 }
 #logo{
     flex-grow: 1;
