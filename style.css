@@ -243,6 +243,15 @@ nav{
     object-fit: cover;
 }
 
+.about-text h3{
+    padding: 2rem 0rem;
+    font-family: "Ruhl Medium";
+}
+
+.about-text h2{
+    font-family:"Vibes" ;
+    padding: 4rem;
+}
 
 
 /* activate burger menu on mobile */
@@ -316,5 +325,9 @@ nav{
 
     .hero-introduction p {
         padding: 5rem 3rem;
+    }
+
+    .about-text div{
+        padding: 3rem 3rem;
     }
 }
